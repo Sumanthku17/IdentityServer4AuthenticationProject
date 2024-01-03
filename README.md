@@ -6,3 +6,6 @@ Identity Server is an all in one Security Solution for your Projects. Here are i
 *)Manage and authenticate clients.
 *)Issue identity and access tokens to clients.
 *)Validate tokens.
+
+Identity server 4 is derived from outh2 protocol; and trust worthy.
+the jwt bearer token can be encoded for extended security.
